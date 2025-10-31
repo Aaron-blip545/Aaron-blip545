@@ -5,3 +5,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Aaron-blip545/Aaron-blip545/output/snake.svg" alt="Snake animation" />
+
+###
